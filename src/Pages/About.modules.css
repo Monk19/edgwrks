@@ -1,7 +1,7 @@
 .about {
   margin-top: 200px;
-  height: 600px;
-  width: 1920px;
+  /*height: 600px;
+  width: 1920px;*/
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -13,8 +13,8 @@
   font-family: var(--abril-font);
   font-size: var(--headfontsize);
   color: var(--headcolor);
-  width: 540px;
-  height: 133px;
+  /*width: 540px;
+  height: 133px;*/
 }
 span {
   color: var(--headred);
@@ -24,7 +24,7 @@ span {
   font-size: 18px;
   border-left: 5px solid var(--moreColor);
   color: var(--moreColor);
-  width: 25px;
+  /*width: 25px;*/
 }
 p {
   font-family: var(--robo);
@@ -32,19 +32,19 @@ p {
 }
 .about > div {
   margin-top: 100px;
-  height: 733px;
-  width: 650px;
+  /*height: 733px;
+  width: 650px;*/
 }
 span#blue-sucess {
   color: var(--moreColor);
 }
 h1.mission-img {
   background-image: url("../Assets/Images/dgif.png");
-  height: 330px;
-  width: 950px;
+  /*height: 330px;
+  width: 950px;*/
   color: white;
   text-align: start;
 }
 div.mission-para {
-  width: 950px;
+  /*width: 950px;*/
 }
